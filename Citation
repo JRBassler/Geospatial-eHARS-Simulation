@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: Geospatial eHARS Simulation
+message: >-
+  The code and materials provided here are designed
+  to match - naming conventions, variable formatting,
+  variable length, and possible values of eHARS data.
+type: software
+authors:
+  - given-names: John
+    family-names: Bassler
+    email: jbassle1@uab.edu
+    affiliation: University of Alabama at Birmingham
+    orcid: 'https://orcid.org/0000-0003-2277-9388'
+repository-code: 'https://github.com/JRBassler/Geospatial-eHARS-Simulation'
+repository: 'https://github.com/JRBassler/Geospatial-eHARS-Simulation'
+version: 1.1.0
+date-released: '202-07-11'
